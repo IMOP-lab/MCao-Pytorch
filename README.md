@@ -97,3 +97,6 @@ Our method demonstrates the best performance in accuracy and sensitivity for cor
 </p>
 
 Each image corresponds to a specific input category: Absence of CAD, LMCA, LAD, LCX, and RCA. The heatmaps capture outputs from targeted neural layers during forward propagation, illustrating how the model identifies pathological features in ECG signals. Specifically: (a) LMCA branch focuses on left main coronary artery signals, (b) LAD branch detects features related to the left anterior descending artery, (c) LCX branch highlights left circumflex artery features, (d) RCA branch focuses on right coronary artery signals, and (e) wKAN fusion branch integrates global features from all coronary territories at the global average pooling layer. Each heatmap demonstrates how the model distinguishes between normal and pathological cases for specific coronary branches.
+
+# Question
+if you have any questions, please contact 'xuanbin.chen@hdu.edu.cn'

@@ -19,7 +19,7 @@ The proposed MCao-Net is an advanced ECG-based diagnostic model tailored for loc
 We will first introduce our method and underlying principles, explaining how MCao-Net uses specialized branches and attention mechanisms to improve feature extraction from ECG signals. Next, we provide details on the experimental setup, performance metrics, and GitHub links to previous methods used for comparison. Finally, we present the experimental results, showing how MCao-Net achieves high performance across multiple datasets.
 
 ## Installation
-We run SASAN and previous methods on a system running Ubuntu 22.04, with Python 3.9, PyTorch 2.0.0, and CUDA 11.8.
+We run MCao and previous methods on a system running Ubuntu 22.04, with Python 3.9, PyTorch 2.0.0, and CUDA 11.8.
 
 ## Experiment
 

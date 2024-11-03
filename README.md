@@ -1,9 +1,15 @@
-# MCao
-MCao: Multi-Branch Coronary Artery Occlusion Localization Using Real-Imaginary Enhancement Fourier Wavelet-KAN
+# MCao: Multi-Branch Coronary Artery Occlusion Localization Using Real-Imaginary Enhancement Fourier Wavelet-KAN
 
 <div align=left>
-  <img src="https://github.com/IMOP-lab/MCao-Pytorch/tree/e20b052a5dfa07001e6a805285b0807aa3758da7/figures/Mcao-Net.png">
+  <img src="https://github.com/IMOP-lab/MCao-Pytorch/blob/main/figures/MCao-Net.png">
 </div>
 <p align=left>
-  Figure 1: Detailed network structure of the SASAN.
+  Figure 1: Detailed network structure of our proposed MCao.
+</p>
+
+<div align=left>
+  <img src="https://github.com/IMOP-lab/MCao-Pytorch/blob/main/figures/FrameWork.png">
+</div>
+<p align=left>
+  Figure 2: The system structure of our proposed CAD localization architecture.
 </p>
